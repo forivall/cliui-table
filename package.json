@@ -1,17 +1,17 @@
 {
-  "name": "node-module-template",
+  "name": "cliui-table",
   "version": "0.0.0",
-  "description": "$DESCRIPTION",
+  "description": "Simplified way to render some data for the terminal, with cliui",
   "keywords": [],
-  "homepage": "https://github.com/forivall/$NAME",
+  "homepage": "https://github.com/forivall/cliui-table",
   "bugs": {
-    "url": "https://github.com/forivall/$NAME/issues"
+    "url": "https://github.com/forivall/cliui-table/issues"
   },
   "license": "ISC",
   "author": "Emily Marigold Klassen <forivall@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:forivall/$NAME.git"
+    "url": "git@github.com:forivall/cliui-table.git"
   },
   "scripts": {
     "inspect": "jsinspect",

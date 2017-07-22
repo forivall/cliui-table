@@ -1,15 +1,15 @@
-# $NAME
+# cliui-table
 
-$DESCRIPTION
+Simplified way to render some data for the terminal, with cliui
 
-[![build status](https://secure.travis-ci.org/forivall/$NAME.svg)](http://travis-ci.org/forivall/$NAME)
-[![dependency status](https://david-dm.org/forivall/$NAME.svg)](https://david-dm.org/forivall/$NAME)
-[![coverage status](https://coveralls.io/repos/github/forivall/$NAME/badge.svg)](https://coveralls.io/github/forivall/$NAME)
+[![build status](https://secure.travis-ci.org/forivall/cliui-table.svg)](http://travis-ci.org/forivall/cliui-table)
+[![dependency status](https://david-dm.org/forivall/cliui-table.svg)](https://david-dm.org/forivall/cliui-table)
+[![coverage status](https://coveralls.io/repos/github/forivall/cliui-table/badge.svg)](https://coveralls.io/github/forivall/cliui-table)
 
 ## Installation
 
 ```
-npm install --save $NAME
+npm install --save cliui-table
 ```
 
 ## Usage
